@@ -84,6 +84,27 @@ p {
     margin-top: 30px;
 }
 
+.leftside{
+    width: 375px;
+    height: 281.5px;
+    float:left;
+    margin-left: 70px;
+    margin-top: 10px;
+    gap: 10px;
+    padding: 60px;
+
+}
+
+.rightside{
+    width: 375px;
+    height: 281.5px;
+    margin-right: 70px;
+    float:right;
+    margin-top: 10px;
+    gap: 10px;
+    /* padding: 60px; */
+}
+
 .content{
     font-size: 40px;
     padding-left: 50px;
@@ -103,11 +124,30 @@ ul{
     
 } 
 
+/* form{
+    width: 40%;
+    padding-left: 70px;
+    margin-left: 70px;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+ */
+
+.home-image{
+    width: 100%;
+    
+
+}
 
 
+.table{
+    border-spacing:0px;
+    background-color: lemonchiffon;
+}
 
-
-
+table,th,td{
+    border: 1px solid black;
+}
 
 
 
