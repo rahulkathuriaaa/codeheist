@@ -231,7 +231,7 @@ ul{
     
     
 } 
-li{
+.secondbox{
     margin-left: 530px;
 }
 
@@ -433,4 +433,5 @@ footer{
     overflow: hidden;
 
 } */
+
 
