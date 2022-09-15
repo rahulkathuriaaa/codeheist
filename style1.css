@@ -296,7 +296,7 @@ h3{
     justify-content: center;
     align-self: center;
     min-height: 100vh;
-    background: #222;
+    background: #040303;
 }
 
 .container{
@@ -381,17 +381,17 @@ h3{
 
 
 
-#footer{
+footer{
     text-align:left;
-    background-color:#161616;
-    /* padding: 7% 15% ; */
+    background-color:#040303;
+    padding: 7% 15% ;
     font-family: "Montserrat-Bold";
     font-size: large;
-    /* margin-top: 50px; */
     color: #06FF00;
- 
+    bottom: 0;
   
-}
+  
+ } 
 
 .i{
     margin: 5px;
